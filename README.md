@@ -17,6 +17,14 @@ Classic Pong Game: A recreation of the iconic Pong game where players control pa
 ## Demo
 [![YouTube Video](https://img.youtube.com/vi/nce04Y1PjnQ/0.jpg)](https://www.youtube.com/watch?v=nce04Y1PjnQ)
 
+## About the Project
+
+In my Pong game project, I have developed a fully functional game with a user-friendly menu screen, offering various gameplay options. The Pong game itself boasts smooth paddle movement, accurate collision detection, and a scoring system. I've successfully implemented win/lose conditions, providing players with the opportunity to replay or switch game modes seamlessly.
+
+In my coding journey, I've created essential classes like 'Ball' and 'Vector,' showcasing my grasp of object-oriented programming. While I've made a great start with these classes, I've also laid the foundation for a 'Paddle' class that awaits further development. My commitment to code organization and adherence to coding standards is evident throughout the project.
+
+Additionally, I've introduced extra features like adjustable ball angles, the ability to pause and resume the game, and even ventured into crafting an AI player, albeit with room for improvement in its performance. My future goals include enhancing code modularity and moving specific functionalities into dedicated classes for further refinement.
+
 ## Technologies Used
 
 - C++
