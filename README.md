@@ -15,7 +15,7 @@ Classic Pong Game: A recreation of the iconic Pong game where players control pa
 </div>
 
 ## Demo
-[![YouTube Video](https://img.youtube.com/vi/nce04Y1PjnQ/0.jpg)](https://www.youtube.com/watch?v=nce04Y1PjnQ)
+[![YouTube Video](https://github.com/MonikaBukov/pong/blob/main/Data/Images/pongp.png)](https://www.youtube.com/watch?v=nce04Y1PjnQ)
 
 ## About the Project
 
